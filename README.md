@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @cakihorse
-- 👀 I’m interested in JAVA
-- 🌱 I’m currently learning java; html and javascript (a litle bit)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : no where
+- 🌱 I’m currently working on [echocraft](https://echocraft.cakihorse.fr)
+- 📫 How to reach me : contact@cakihorse.fr
 
 <!---
 cakihorse/cakihorse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
