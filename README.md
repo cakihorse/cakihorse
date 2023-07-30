@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cakihorse
-- 🌱 I’m currently working on [Echocraft](https://EchocraftMc)
+- 🌱 I’m currently working on [Echocraft](https://github.com/EchocraftMc)
 - 📫 How to reach me : contact@cakihorse.fr
 
 <!---
