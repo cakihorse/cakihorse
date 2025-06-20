@@ -14,7 +14,7 @@
 
 ## 📫 How to reach me?
 
-- ✉️ soon...
+- ✉️ Email: contact@cakihorse.fr (only pro please)
 - 💬 Discord : `cakihorse`
 - 🌐 [cakihorse.fr](https://cakihorse.fr) 
 
